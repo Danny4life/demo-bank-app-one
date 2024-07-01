@@ -1,0 +1,11 @@
+1. Create project file and configure database
+2. Create project Architecture
+3. Create signup and generate account number
+4. Create Email set-up
+5. Create login
+6. Create upload image -- add cloudinary dependency, add cloudinary properties file,
+configure cloudinary, create file upload class and
+general user class with user id - to be change when security is added
+7. Create Balance and name inquiry
+8. Create credit, debit and transfer funds
+
